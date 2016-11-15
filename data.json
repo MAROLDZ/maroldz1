@@ -1,6 +1,6 @@
 {
-    "Coherent Fault Vector": 252, 
-    "Coherent Status Vector": 253, 
+    "Corent Fault Vector": 252, 
+    "erent Status Vector": 253, 
     "Coherent Time Stamp": 254, 
     "Delivered Power": 27, 
     "Fault Vector": 47, 
